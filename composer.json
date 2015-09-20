@@ -1,0 +1,22 @@
+{
+    "name": "dragg/jam-base",
+    "description": "Library for JamBase API",
+    "type": "library",
+    "require": {
+        "illuminate/support": "5.1.16",
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Zhidenko Nikolay",
+            "email": "dragg.ko@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JamBase\\JamBase\\": "src"
+        }
+    },
+    "version": "dev"
+}
