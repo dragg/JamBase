@@ -18,6 +18,5 @@
             "JamBase\\JamBase\\": "src"
         }
     },
-    "minimum-stability": "dev",
-    "version": "dev"
+    "version": "stable"
 }
