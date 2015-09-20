@@ -3,8 +3,7 @@
     "description": "Library for JamBase API",
     "type": "library",
     "require": {
-        "illuminate/support": "5.1.16",
-        "guzzlehttp/guzzle": "^6.1"
+        "illuminate/support": "5.1.16"
     },
     "license": "MIT",
     "authors": [
